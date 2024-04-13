@@ -11,3 +11,4 @@ Binary Search Tree: Implementation of a binary search tree with methods for inse
 Heap: Implementation of a binary heap (min-heap) with methods for insertion, deletion, and heapification.
 Queue: Implementation of a queue using arrays with methods for enqueue, dequeue, peek, and checking if the queue is empty.
 Stack: Implementation of a stack using arrays with methods for push, pop, peek, and checking if the stack is empty.
+#This repo is updated as class structures are created.
